@@ -18,7 +18,7 @@ export default defineConfig({
   },
   resolve: {
     alias: {
-      // Remove the buffer alias
+      // Remove the buffer alias yes
     },
   },
   optimizeDeps: {
